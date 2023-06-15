@@ -1,5 +1,4 @@
-# Group_5_Project
-## Carbon Neutral Token
+# Carbon Neutral Token
 
 TerraCarbon is a platform for carbon credit buyers and sellers to interact in the most meaningful way towards a central goal of improving the planet. Carbon neutrality is a powerful goal to be conquered, overcome and something to be looked back on as a lesson. We will be doing so by creating a fungible token that we will be using as the currency for trade.
 
