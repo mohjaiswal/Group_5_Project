@@ -1,5 +1,4 @@
 # Carbon Neutral Token
--- 
 ![TerraCarbon Header](headerterracarbon.png)
 
 TerraCarbon is a unique platform aimed at connecting carbon credit buyers and sellers. With a mission to contribute positively to the planet, TerraCarbon introduces a fungible token for trading carbon credits, fostering a journey towards carbon neutrality.
