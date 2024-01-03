@@ -1,6 +1,6 @@
 # Carbon Neutral Token
-
-![TerraCarbon Header](DALL·E 2024-01-03 01.10.20 - A futuristic and sleek header image for a website named 'TerraCarbon', symbolizing carbon neutrality, sustainability, and technology. The image should.png)
+-- 
+![TerraCarbon Header](headerterracarbon.png)
 
 TerraCarbon is a unique platform aimed at connecting carbon credit buyers and sellers. With a mission to contribute positively to the planet, TerraCarbon introduces a fungible token for trading carbon credits, fostering a journey towards carbon neutrality.
 
