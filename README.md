@@ -61,7 +61,7 @@ Our project begins with a focus on Carbon Credits' significance. We utilized Pyt
 
 ## Badges
 
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/TerraCarbon/CarbonNeutralToken)
+[![Project Status](https://img.shields.io/badge/Status-Inactive-red)](https://github.com/TerraCarbon/CarbonNeutralToken)
 
 ## Support
 
